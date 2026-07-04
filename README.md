@@ -15,8 +15,6 @@ I created this portfolio during my Foundation studies. This portfolio project wa
 
 ## 🛠️ Tools & Technologies Used
 *   **Canva:** Used as the primary layout tool to construct slide graphics, typography configurations, and compile the final report structure.
-*   **Figma:** Utilized for high-fidelity interactive mobile application wireframing, prototyping, and layout structures (e.g., *Vortex App*).
-*   **HTML/CSS:** Foundational coding structure applied to understand box models and structural web design implementations.
 
 ---
 
@@ -43,29 +41,34 @@ I created this portfolio during my Foundation studies. This portfolio project wa
 ## 🗂️ Portfolio Breakdown (Slide by Slide)
 
 ### 📊 Slide 1: Front Cover
-*   **File Reference:** <img width="1230" height="696" alt="Screenshot 2026-07-04 132628" src="https://github.com/user-attachments/assets/a43c9faf-0c59-4f34-8328-dd6c791d5770" />
+*   **File Reference:** <img width="100%" alt="Screenshot 2026-07-04 132628" src="https://github.com/user-attachments/assets/a43c9faf-0c59-4f34-8328-dd6c791d5770" />
 
 *   **Key Focus:** High-fashion cinematic lighting editorial portrait overlaid cleanly behind a massive bold title text ("PORTFOLIO") to establish immediate creative presence. Features course code (PRL1023) and student ID markings.
 
 ### 🗂️ Slide 2: Table of Contents
-*   **File Reference:** Screenshot 2026-07-04 132654.jpg
+*   **File Reference:** <img width="100%" alt="Screenshot 2026-07-04 132654" src="https://github.com/user-attachments/assets/8a7f4eda-afce-4a58-99e1-af16ce1e0d3c" />
+
 *   **Key Focus:** A clean interactive layout blueprint featuring four primary sections: About Me, Resume, Gallery, and Contact.
 
 ### 👤 Slide 3: About Me
-*   **File Reference:** Screenshot 2026-07-04 132719.jpg
+*   **File Reference:** <img width="100%" alt="Screenshot 2026-07-04 132719" src="https://github.com/user-attachments/assets/81c14de8-2c2f-4dd6-9207-8d56660effce" />
+
 *   **Key Focus:** Personal introduction documenting my roots in Limbang, Sarawak, and my core interest in crafting intentional digital interfaces, focusing on navigation design and layout colors.
 
 ### 🛠️ Slide 4: Expertise & Education (Resume)
-*   **File Reference:** Screenshot 2026-07-04 132748.png
+*   **File Reference:** <img width="100%" alt="Screenshot 2026-07-04 132748" src="https://github.com/user-attachments/assets/4140e097-56ad-4774-934c-8cf5722133cc" />
+
 *   **Key Focus:** Clear categorization cards outlining specialized core competencies like Wireframing & Prototyping, User Research, and Visual Design. Highlights academic enrollment in the Foundation of Computer Science program at University Malaysia Sarawak (UNIMAS).
 
 ### 💻 Slide 5: Project Gallery ("My Design")
-*   **File Reference:** Screenshot 2026-07-04 132826.jpg
+*   **File Reference:** <img width="100%" alt="Screenshot 2026-07-04 132826" src="https://github.com/user-attachments/assets/1b5b19f5-8b36-4623-96ff-adc1bab4571e" />
+
 *   **Key Focus:** Demonstrates three core project competencies:
     1.  *Designing App Using Figma:* View of an active UI prototype workspace layout.
     2.  *Redesign App:* Mobile viewport example demonstrating localized platform design improvements (e.g., Yayasan Sarawak integration).
     3.  *Redesign Interface:* Accessibility focused layout optimization handling system kiosk/ATM transaction interfaces.
 
 ### 📞 Slide 6: Contact Details
-*   **File Reference:** Screenshot 2026-07-04 132904.jpg
+*   **File Reference:** <img width="100%" alt="Screenshot 2026-07-04 132904" src="https://github.com/user-attachments/assets/52c694ae-3304-4b9a-9b18-dc8dc1b9e0f3" />
+
 *   **Key Focus:** Clean contact terminal layout dividing communication endpoints across standard networks (Email, Phone, Facebook, Instagram) opposite a final grayscale portrait capture.
